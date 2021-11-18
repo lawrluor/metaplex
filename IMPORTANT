@@ -1,1 +1,3 @@
 pubkey: 3ApgWkBjvihsxAqTgGe8BkhQFCz4fKBsFv9eFCgentYU
+
+ts-node js/packages/cli/src/candy-machine-cli.ts upload ./assets --env devnet --keypair ~/.config/solana/devnet-test.json
