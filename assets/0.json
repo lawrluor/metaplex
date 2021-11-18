@@ -1,0 +1,40 @@
+{
+  "name": "0",
+  "symbol": "",
+  "description": "Solperhero test",
+  "seller_fee_basis_points": 250,
+  "image": "image.png",
+  "attributes": [
+    {
+      "trait_type": "Headgear",
+      "value": "None"
+    },
+    {
+      "trait_type": "Earrings",
+      "value": "Earrings"
+   },
+   {
+      "trait_type": "Armor",
+      "value": "SOL Logo"
+    }
+  ],
+  "collection": {
+     "name": "Girl",
+     "family": "SolPerHeros"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3ApgWkBjvihsxAqTgGe8BkhQFCz4fKBsFv9eFCgentYU",
+        "share": 100
+      }
+    ]
+  }
+}
