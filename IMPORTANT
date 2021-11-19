@@ -1,3 +1,7 @@
 pubkey: 3ApgWkBjvihsxAqTgGe8BkhQFCz4fKBsFv9eFCgentYU
 
 ts-node js/packages/cli/src/candy-machine-cli.ts upload ./assets --env devnet --keypair ~/.config/solana/devnet-test.json
+
+Fair launch test01: 4VkGZyn8ZFDDtyFVndAWweu7rUT4R7RmFLBZuHJoBqxd
+ts-node js/packages/cli/src/fair-launch-cli.ts show --env devnet --keypair ~/.config/solana/devnet-test.json -f 4VkGZyn8ZFDDtyFVndAWweu7rUT4R7RmFLBZuHJoBqxd
+
